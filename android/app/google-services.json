@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "730923400452",
+    "firebase_url": "https://cropdoctor-9eedd-default-rtdb.firebaseio.com",
+    "project_id": "cropdoctor-9eedd",
+    "storage_bucket": "cropdoctor-9eedd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730923400452:android:cfba32a671a37080baa451",
+        "android_client_info": {
+          "package_name": "com.example.crop_doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-u91VM3rPRWAL0fSEQrHPdxbx5GOuUK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
